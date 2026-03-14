@@ -1,0 +1,1 @@
+# Hirehead Frontend (Next.js)

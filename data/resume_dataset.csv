@@ -1,0 +1,491 @@
+text,label
+"Summary: Experienced software engineer with 5+ years in backend development and cloud systems. Skills: Python, Django, FastAPI, AWS, Docker, PostgreSQL. Experience: Built scalable REST APIs, optimized DB queries, deployed microservices on AWS ECS. Projects: E-commerce backend, CI/CD pipelines. Education: B.Tech in Computer Science. Certifications: AWS Developer Associate.",good
+"Summary: Motivated frontend developer with strong UI/UX understanding. Skills: React, Next.js, TypeScript, TailwindCSS, Figma. Experience: Developed responsive dashboards and improved Web Vitals. Projects: Portfolio site, analytics dashboard. Education: B.Sc IT. Certifications: Meta Frontend Cert.",good
+"Summary: Data scientist with strong ML and NLP foundation. Skills: Python, TensorFlow, PyTorch, sklearn, NLP, Pandas. Experience: Built classification models, deployed ML pipelines. Projects: Resume classifier, sentiment analyzer. Education: M.Tech AI. Certifications: TensorFlow Developer.",good
+"Summary: DevOps engineer with experience in automation and container orchestration. Skills: Docker, Kubernetes, Terraform, AWS, CI/CD. Experience: Managed infrastructure as code, deployed microservices. Projects: K8s cluster setup, monitoring dashboards. Education: B.Tech CSE. Certifications: CKA.",good
+"Summary: Undergraduate with basic computer knowledge looking for any job. Skills: MS Word, browsing. Experience: None. Projects: None. Education: 12th pass. Certifications: None.",bad
+"Summary: Fresher resume with little detail. Skills: Basic typing. Experience: No corporate experience. Projects: None. Education: High school. Certifications: None.",bad
+"Summary: Highly skilled ML engineer with 3+ years experience. Skills: Python, PyTorch, HuggingFace, MLOps, Docker, AWS Sagemaker. Experience: Fine-tuned LLMs, built embeddings search systems. Projects: Chatbot pipeline, vector DB implementation. Education: B.Tech AI. Certifications: DeepLearning.AI.",good
+"Summary: Cloud engineer specialized in AWS infrastructure. Skills: EC2, S3, RDS, Lambda, IAM, Terraform. Experience: Designed secure cloud architectures. Projects: Serverless API, data ingestion pipelines. Education: B.Tech. Certifications: AWS Solutions Architect.",good
+"Summary: Marketing executive with strong digital strategies background. Skills: SEO, SEM, Google Ads, Analytics, Content Writing. Experience: Increased traffic 250% for clients. Projects: Campaign optimization. Education: MBA Marketing. Certifications: Google Ads.",good
+"Summary: Student resume missing key sections and no contact info. Skills: HTML basics. Experience: School project. Education: High school. Certifications: None.",bad
+"Summary: Product manager with strong problem-solving skills. Skills: Roadmapping, Agile, Jira, A/B testing, Analytics. Experience: Launched SaaS product features. Projects: User research study. Education: B.Tech + MBA. Certifications: Scrum Master.",good
+"Summary: Graphic designer passionate about aesthetics. Skills: Photoshop, Illustrator, Figma. Experience: Designed social media posts. Projects: Branding kit. Education: Diploma Design. Certifications: Adobe Certified.",good
+"Summary: Random text unrelated to resume professional experience. Skills: none listed. Experience: none provided. Education: unclear. Certifications: none.",bad
+"Summary: HR professional with recruitment expertise. Skills: ATS tools, onboarding, employee engagement. Experience: Led hiring drives. Projects: HRIS migration. Education: MBA HR. Certifications: HR Analytics.",good
+"Summary: Finance analyst with strong analytics ability. Skills: Excel, SQL, Tableau, budgeting. Experience: Created financial models. Projects: Forecast dashboard. Education: B.Com Finance. Certifications: CFA Level 1.",good
+"Summary: Teacher without clear sections or achievements. Skills: teaching. Experience: taught classes. Education: B.Ed. Certifications: None.",bad
+"Summary: Full-stack developer with strong problem-solving skills. Skills: MERN stack, Docker, Redis. Experience: Built scalable web apps. Projects: Chat app, payment integration. Education: B.Tech CSE. Certifications: Full-Stack Course.",good
+"Summary: AI researcher with interest in deep learning. Skills: Python, PyTorch, GANs, CNN, NLP. Experience: Research intern. Projects: Object detection model. Education: M.Tech AI. Certifications: ML Specialization.",good
+"Summary: Resume with emojis 😂😂 and no professional detail. Skills: none. Experience: none. Projects: none. Education: none.",bad
+"Summary: Cybersecurity analyst with blue-team experience. Skills: SIEM, SOC, Nmap, Wireshark, Splunk. Experience: Incident response handling. Projects: Threat detection automation. Education: B.Tech Cybersecurity. Certifications: CEH.",good
+"Summary: Architect with design experience. Skills: AutoCAD, Revit, 3D modeling. Experience: Residential projects. Education: B.Arch. Certifications: Architecture license.",good
+"Summary: Content writer with strong communication skills. Skills: SEO writing, blogs, scripts. Experience: Freelance writing. Projects: Blog series. Education: BA English. Certifications: Content Marketing.",good
+"Summary: Operations manager with leadership skills. Skills: Planning, resource allocation, logistics. Experience: Handled large teams. Projects: Operational automation. Education: MBA Operations. Certifications: Six Sigma.",good
+"Summary: Student resume with extremely short content and no sections. Skills: none. Experience: none. Education: none.",bad
+"Summary: Backend Java engineer with API development expertise. Skills: Java, Spring Boot, MySQL, Docker. Experience: Built enterprise APIs. Projects: Billing system. Education: B.Tech CSE. Certifications: Java SE.",good
+"Summary: Android developer with app store deployments. Skills: Kotlin, Java, Android SDK, Firebase. Experience: Built mobile apps. Projects: Fitness app. Education: B.Tech CSE. Certifications: Android Developer.",good
+"Summary: Person seeking job with no clear description. Skills: none. Experience: none. Education: not mentioned. Certifications: none.",bad
+"Summary: Video editor with creative storytelling ability. Skills: Premiere Pro, After Effects. Experience: Short films editing. Projects: Ad film. Education: BA Film Studies. Certifications: Video Editing Cert.",good
+"Summary: Sales professional with strong negotiation ability. Skills: CRM, lead generation, cold calling. Experience: Closed large deals. Projects: Sales strategy design. Education: BBA. Certifications: Salesforce.",good
+"Summary: Weak resume missing experience and skills. Skills: none. Experience: none. Education: 10th pass. Certifications: none.",bad
+"Summary: Business analyst with data-driven decision making. Skills: SQL, Excel, PowerBI. Experience: Requirements gathering. Projects: KPI dashboards. Education: MBA. Certifications: BA Certification.",good
+"Summary: Robotics engineer with hardware/software expertise. Skills: ROS, C++, Python, PCB design. Experience: Autonomous robot development. Projects: SLAM robot. Education: B.Tech Robotics. Certifications: Robotics Cert.",good
+"Summary: Poorly formatted resume with no achievements. Skills: basic computer. Experience: nothing. Education: none. Certifications: none.",bad
+"Summary: Full-stack Python developer. Skills: Flask, React, PostgreSQL, Docker. Experience: Built ERP modules. Projects: HRMS system. Education: B.Tech CSE. Certifications: Python Bootcamp.",good
+"Summary: Cloud security engineer. Skills: IAM, VPC, GuardDuty, SecurityHub. Experience: Secured AWS workloads. Projects: Threat modeling. Education: B.Tech IT. Certifications: AWS Security Specialty.",good
+"Summary: Completely irrelevant text not related to a resume. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: HR recruiter with 2 years experience. Skills: sourcing, screening, ATS. Experience: Filled 100+ roles. Projects: Hiring pipeline optimization. Education: MBA HR. Certifications: HRBP.",good
+"Summary: UI/UX designer. Skills: Figma, wireframing, prototyping. Experience: App redesigns. Projects: Fintech UI revamp. Education: B.Des. Certifications: UX Certification.",good
+"Summary: Student with only one-line resume and no detail. Skills: none. Experience: none. Education: none.",bad
+"Summary: Network engineer. Skills: Cisco routers, switches, firewalls. Experience: Configured networks. Projects: Office network deployment. Education: B.Tech ECE. Certifications: CCNA.",good
+"Summary: QA engineer. Skills: Selenium, Cypress, API testing, Jira. Experience: Automated test suites. Projects: Regression automation. Education: B.Tech CSE. Certifications: ISTQB.",good
+"Summary: Poor resume with no structure. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: Blockchain developer. Skills: Solidity, Ethereum, smart contracts. Experience: Built dApps. Projects: Token exchange. Education: B.Tech CSE. Certifications: Blockchain Developer.",good
+"Summary: Data analyst. Skills: SQL, Python, Power BI, Excel. Experience: Cleaned datasets, dashboards. Projects: Sales dashboard. Education: BBA Analytics. Certifications: DA Certification.",good
+"Summary: Social media manager. Skills: Canva, Instagram Analytics. Experience: Grew audience. Projects: Campaigns. Education: BA Mass Com. Certifications: Social Media Marketing.",good
+"Summary: Weak resume with informal text. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Biomedical engineer. Skills: Medical devices, imaging systems. Experience: Hospital equipment support. Projects: Device testing. Education: B.Tech Biomedical. Certifications: Medical Equip Cert.",good
+"Summary: Lawyer with research and drafting skills. Skills: Legal drafting, case research. Experience: Assisted in litigation. Projects: Contract reviews. Education: LLB. Certifications: Bar License.",good
+"Summary: Mechanical engineer with experience in CAD and manufacturing processes. Skills: AutoCAD, SolidWorks, CNC, machining. Experience: Designed components for automotive clients. Projects: Gear system design. Education: B.Tech Mechanical. Certifications: CAD Professional.",good
+"Summary: Electrical engineer with control systems knowledge. Skills: MATLAB, Simulink, PLC, SCADA. Experience: Automation intern. Projects: Control loop simulation. Education: B.Tech Electrical. Certifications: PLC Automation.",good
+"Summary: Resume missing structure and details, extremely short and unclear. Skills: none. Experience: none. Education: unknown. Certifications: none.",bad
+"Summary: Social worker with community assistance experience. Skills: communication, planning, counselling. Experience: Led welfare initiatives. Projects: Community outreach. Education: MSW. Certifications: Social Work Cert.",good
+"Summary: Chef with culinary creativity. Skills: baking, cooking, menu planning. Experience: Worked in restaurants. Projects: Menu redesign. Education: Diploma Culinary Arts. Certifications: Food Safety.",good
+"Summary: Incomplete resume with random words and no professional info. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Civil engineer with site supervision experience. Skills: AutoCAD, surveying, estimation. Experience: Managed construction sites. Projects: Residential building. Education: B.Tech Civil. Certifications: PMP.",good
+"Summary: Interior designer with creative portfolio. Skills: 3D modeling, SketchUp, lighting design. Experience: Designed home interiors. Projects: Modern home renovation. Education: B.Des Interior. Certifications: Interior Design Cert.",good
+"Summary: Poor resume structure lacking all sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Business development executive with strong client relations experience. Skills: CRM, lead generation, presentations. Experience: Closed B2B deals. Projects: Expansion strategy. Education: BBA. Certifications: Sales Cert.",good
+"Summary: Medical lab technician. Skills: pathology testing, lab equipment handling. Experience: Hospital lab intern. Projects: Sample workflow optimization. Education: B.Sc MLT. Certifications: Lab Technician Cert.",good
+"Summary: Nurse with patient care experience. Skills: vital monitoring, wound care, reporting. Experience: ICU and ward duties. Projects: Patient safety initiative. Education: B.Sc Nursing. Certifications: Registered Nurse.",good
+"Summary: Pharmacist with prescription handling experience. Skills: drug dispensing, inventory. Experience: Pharmacy assistant. Projects: Medicine database. Education: B.Pharm. Certifications: Pharmacy License.",good
+"Summary: Resume extremely vague with no real content. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Hotel management graduate with hospitality experience. Skills: customer service, front desk, F&B. Experience: Hotel intern. Projects: Guest experience improvement. Education: BHM. Certifications: Hospitality Cert.",good
+"Summary: Airline cabin crew professional. Skills: safety procedures, communication. Experience: 3 years flying experience. Projects: Customer satisfaction improvement. Education: Diploma Aviation. Certifications: Cabin Crew Cert.",good
+"Summary: Very short resume with only one sentence. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Psychologist with counselling experience. Skills: assessment, therapy planning, communication. Experience: Counsellor intern. Projects: Mental wellness program. Education: M.A Psychology. Certifications: Counselling Cert.",good
+"Summary: Journalist with storytelling and reporting skills. Skills: writing, editing, interviewing. Experience: News portal writer. Projects: Feature stories. Education: BA Journalism. Certifications: Journalism Cert.",good
+"Summary: Extremely unprofessional resume with jokes and informal language. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Dentist with clinical experience. Skills: root canals, crowns, dental procedures. Experience: Clinic intern. Projects: Dental awareness camp. Education: BDS. Certifications: Dental License.",good
+"Summary: Physiotherapist with rehabilitation experience. Skills: exercises, evaluation, therapy planning. Experience: Sports injury rehab. Projects: Posture correction program. Education: BPT. Certifications: PT License.",good
+"Summary: Thin resume missing all core sections. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: Fashion designer with garment design experience. Skills: pattern making, stitching, illustration. Experience: Boutique designer. Projects: Bridal collection. Education: B.Des Fashion. Certifications: Fashion Design Cert.",good
+"Summary: Event manager with planning and coordination skills. Skills: logistics, vendor mgmt, negotiation. Experience: Corporate events. Projects: Annual conference. Education: BBA Event Mgmt. Certifications: Event Cert.",good
+"Summary: No skillset mentioned and poorly formed resume. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Logistics coordinator. Skills: supply chain, warehouse operations, tracking. Experience: Managed shipments. Projects: Inventory optimization. Education: B.Com Logistics. Certifications: Logistics Cert.",good
+"Summary: Accountant with strong finance knowledge. Skills: Tally, Excel, GST, taxation. Experience: 3-year accounting experience. Projects: Audit support. Education: B.Com. Certifications: Accounting Cert.",good
+"Summary: Weak resume lacking detail and description. Skills: typing. Experience: none. Education: 10th pass. Certifications: none.",bad
+"Summary: Bank officer with customer service experience. Skills: KYC, loan processing, accounts mgmt. Experience: Branch operations. Projects: Loan approval workflow. Education: B.Com Banking. Certifications: Banking Cert.",good
+"Summary: Research scientist in biotechnology. Skills: PCR, DNA extraction, lab analysis. Experience: Lab research. Projects: Gene expression study. Education: M.Sc Biotechnology. Certifications: Biotech Research Cert.",good
+"Summary: Poor formatting and incomplete resume. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: Sports coach with training experience. Skills: fitness training, team management. Experience: School coach. Projects: Training program. Education: B.P.Ed. Certifications: Coaching Cert.",good
+"Summary: Photographer with creative eye. Skills: Lightroom, Photoshop, DSLR. Experience: Event shoots. Projects: Portrait series. Education: Diploma Photography. Certifications: Photography Cert.",good
+"Summary: Very low-quality resume without structure. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Customer support representative. Skills: ticketing tools, communication, empathy. Experience: Resolved customer queries. Projects: CSAT improvement. Education: BA. Certifications: Customer Support Cert.",good
+"Summary: Retail store manager. Skills: merchandise planning, customer handling. Experience: Managed store operations. Projects: Sales uplift plan. Education: BBA. Certifications: Retail Cert.",good
+"Summary: Resume with no meaningful information. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Linguist and translator. Skills: translation, proofreading, grammar. Experience: Freelance translator. Projects: Document translations. Education: MA Linguistics. Certifications: Language Proficiency.",good
+"Summary: Music producer. Skills: mixing, mastering, composition. Experience: Studio production. Projects: Music album. Education: Diploma Music. Certifications: Sound Engineering.",good
+"Summary: Bare minimum resume with no accomplishments. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Nutritionist. Skills: diet planning, assessment, counselling. Experience: Clinic nutritionist. Projects: Diet plan program. Education: B.Sc Nutrition. Certifications: Nutrition Cert.",good
+"Summary: Aviation engineer. Skills: aircraft maintenance, quality checks. Experience: Aviation intern. Projects: Safety audit. Education: B.Tech Aeronautical. Certifications: Aircraft Maintenance Cert.",good
+"Summary: Poorly written resume lacking sections. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: Public relations manager. Skills: communication, branding, crisis mgmt. Experience: Managed PR campaigns. Projects: Brand awareness program. Education: BA Public Relations. Certifications: PR Cert.",good
+"Summary: Data engineer. Skills: Python, SQL, Spark, ETL pipelines. Experience: Built data lakes. Projects: Batch/stream pipelines. Education: B.Tech CSE. Certifications: Data Engineer Cert.",good
+"Summary: Incomplete resume with random text. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Marine engineer. Skills: ship maintenance, engines, safety checks. Experience: Vessel operations. Projects: Engine overhaul. Education: B.Tech Marine. Certifications: Marine Cert.",good
+"Summary: Environmental engineer focused on sustainability. Skills: waste management, water treatment, environmental audits. Experience: Intern at environmental consultancy. Projects: Waste reduction plan. Education: B.Tech Environmental. Certifications: Environmental Compliance Cert.",good
+"Summary: Geologist with field survey experience. Skills: GIS, mapping, sample analysis. Experience: Mining site surveys. Projects: Geological mapping study. Education: M.Sc Geology. Certifications: GIS Cert.",good
+"Summary: Very poorly structured resume with no achievements. Skills: none. Experience: none. Education: basic. Certifications: none.",bad
+"Summary: Economist with analytical skills. Skills: econometrics, data analysis, forecasting. Experience: Policy research. Projects: Financial impact study. Education: M.A Economics. Certifications: Economic Analysis Cert.",good
+"Summary: Political science graduate with research experience. Skills: writing, survey research, analysis. Experience: Assisted professor. Projects: Election data study. Education: MA Political Science. Certifications: Research Cert.",good
+"Summary: Resume with only 2–3 generic words and no professional data. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Animator. Skills: Blender, Maya, storyboarding. Experience: Animated short films. Projects: 3D animation clip. Education: B.Des Animation. Certifications: Animation Cert.",good
+"Summary: Logistics manager with 5+ years experience. Skills: SCM, ERP, forecasting. Experience: Managed supply chain operations. Projects: Cost optimization. Education: MBA SCM. Certifications: Supply Chain Cert.",good
+"Summary: Poor English and no structured details. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Artificial Intelligence engineer. Skills: LLMs, Transformers, Python, MLOps. Experience: Deployed NLP models. Projects: Chatbot pipeline. Education: B.Tech AI. Certifications: Deep Learning Specialization.",good
+"Summary: HR generalist. Skills: payroll, onboarding, grievance handling. Experience: 2 years HR operations. Projects: Employee engagement initiative. Education: MBA HR. Certifications: HR Generalist Cert.",good
+"Summary: Biology researcher. Skills: microscopy, lab testing, data analysis. Experience: Research intern. Projects: Cell culture study. Education: M.Sc Biology. Certifications: Lab Research Cert.",good
+"Summary: Very short and unclear resume. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: IT support technician. Skills: troubleshooting, hardware repair, network basics. Experience: Helpdesk role. Projects: Ticket automation script. Education: BCA. Certifications: CompTIA A+.",good
+"Summary: Robotics automation engineer. Skills: PLC, sensors, actuators, ROS. Experience: Industrial automation. Projects: Conveyor robot. Education: B.Tech Robotics. Certifications: Automation Cert.",good
+"Summary: Repetitive and incomplete text, no professional meaning. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Business strategist. Skills: planning, research, competitor analysis. Experience: Developed business plans. Projects: Market entry study. Education: MBA Strategy. Certifications: Strategy Cert.",good
+"Summary: Dermatologist with clinical experience. Skills: skincare treatment, diagnosis. Experience: Clinic intern. Projects: Skin awareness camp. Education: MD Dermatology. Certifications: Medical License.",good
+"Summary: Resume has jokes, memes and non-professional tone. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Civil site engineer. Skills: AutoCAD, surveying, BOQ. Experience: Residential construction. Projects: Villa project. Education: B.Tech Civil. Certifications: Civil Engineer Cert.",good
+"Summary: Data architect. Skills: SQL, Snowflake, ETL design, data modeling. Experience: Designed enterprise warehouses. Projects: Data lake architecture. Education: B.Tech CSE. Certifications: Data Architecture Cert.",good
+"Summary: No structured information and irrelevant sentences. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Kindergarten teacher. Skills: child care, communication, planning. Experience: Taught early childhood classes. Projects: Activity-based learning. Education: B.Ed. Certifications: Teacher Training.",good
+"Summary: Veterinary doctor. Skills: animal treatment, diagnosis. Experience: Veterinary intern. Projects: Pet health drive. Education: BVSc. Certifications: Vet License.",good
+"Summary: Unstructured resume lacking clarity. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Cybersecurity engineer. Skills: SIEM, IDS, malware analysis, Kali Linux. Experience: Secured enterprise infra. Projects: Threat detection rules. Education: B.Tech Cybersecurity. Certifications: CEH, Security+.",good
+"Summary: Agricultural engineer. Skills: crop modeling, irrigation systems. Experience: Farm automation internships. Projects: Irrigation setup. Education: B.Tech Agriculture. Certifications: Agri Tech Cert.",good
+"Summary: Broken resume template with no real content. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Sales strategist. Skills: CRM, sales planning, negotiation. Experience: Achieved 120% targets. Projects: Sales funnel optimization. Education: MBA Sales. Certifications: Sales Strategy Cert.",good
+"Summary: Mining engineer. Skills: blasting, surveying, mine planning. Experience: Underground mining intern. Projects: Fault line mapping. Education: B.Tech Mining. Certifications: Mining Safety.",good
+"Summary: Resume missing skills and experience. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: Creative copywriter. Skills: storytelling, scripting, editing. Experience: Ad agency writer. Projects: Ad campaigns. Education: BA Literature. Certifications: Copywriting Cert.",good
+"Summary: Arabic translator. Skills: translation, proofreading, editing. Experience: Freelance translator. Projects: Legal docs. Education: BA Arabic. Certifications: Language Cert.",good
+"Summary: Resume too short and contains incomplete information. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Investment banker. Skills: financial modeling, valuation, presentations. Experience: M&A and IPO support. Projects: Valuation model. Education: MBA Finance. Certifications: CFA.",good
+"Summary: HR analyst. Skills: Excel, HR dashboards, employee metrics. Experience: People analytics. Projects: HR dashboard automation. Education: MBA HR. Certifications: HR Analytics.",good
+"Summary: Poor grammar and unclear statements throughout the resume. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Web designer. Skills: HTML, CSS, JavaScript, Figma. Experience: Landing pages, UI redesign. Projects: Portfolio redesign. Education: BCA. Certifications: Web Design Cert.",good
+"Summary: Senior accountant. Skills: tax filing, financial reporting, auditing. Experience: Managed ledger entries. Projects: Audit automation. Education: B.Com. Certifications: CA Inter.",good
+"Summary: Resume full of spelling errors and missing sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Statistician. Skills: R, Python, probability modeling. Experience: Survey analysis. Projects: Regression modeling. Education: M.Sc Statistics. Certifications: Stats Cert.",good
+"Summary: Marine biologist. Skills: data collection, analysis, diving. Experience: Field research. Projects: Coral reef study. Education: M.Sc Marine Biology. Certifications: Marine Research Cert.",good
+"Summary: Low-effort resume with 1–2 lines only. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Customer success manager. Skills: onboarding, relationship mgmt, retention. Experience: Improved NPS. Projects: Onboarding framework. Education: BBA. Certifications: CSM.",good
+"Summary: Drone engineer. Skills: UAV design, flight control, simulations. Experience: Built custom drones. Projects: Autonomous drone. Education: B.Tech Aerospace. Certifications: Drone Tech Cert.",good
+"Summary: Resume incomplete and missing core sections. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: Hospitality manager. Skills: guest relations, quality control. Experience: Managed hotel operations. Projects: Guest delight program. Education: BHM. Certifications: Hospitality Cert.",good
+"Summary: Industrial engineer with optimization expertise. Skills: lean manufacturing, quality control, process improvement. Experience: Reduced production waste by 18%. Projects: Assembly line optimization. Education: B.Tech Industrial. Certifications: Six Sigma Green Belt.",good
+"Summary: Oceanographer. Skills: sonar mapping, marine sampling, data logging. Experience: Ocean survey intern. Projects: Sea current analysis. Education: M.Sc Oceanography. Certifications: Marine Survey Cert.",good
+"Summary: Resume missing most information and lacking structure. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Speech therapist. Skills: speech evaluation, therapy planning, communication exercises. Experience: Clinic therapist. Projects: Stuttering therapy program. Education: BASLP. Certifications: Speech Therapy License.",good
+"Summary: Digital illustrator. Skills: Procreate, Photoshop, vector art. Experience: Freelance illustrations. Projects: Children’s book art. Education: BFA. Certifications: Illustration Cert.",good
+"Summary: Very minimal text without meaningful information. Skills: none. Experience: none. Education: incomplete. Certifications: none.",bad
+"Summary: Mechanical design engineer. Skills: SolidWorks, GD&T, simulations. Experience: Designed mechanical assemblies. Projects: Suspension system model. Education: B.Tech Mechanical. Certifications: Design Engineer Cert.",good
+"Summary: Automobile engineer. Skills: engine diagnostics, ECU tuning, CAD. Experience: Auto workshop intern. Projects: Vehicle performance study. Education: B.Tech Automobile. Certifications: Automotive Cert.",good
+"Summary: Poorly structured resume without sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: SEO strategist. Skills: keyword research, on-page SEO, analytics. Experience: Improved ranking for clients. Projects: SEO audits. Education: BBA Marketing. Certifications: SEO Specialist.",good
+"Summary: Cloud-native developer. Skills: AWS Lambda, DynamoDB, API Gateway, serverless. Experience: Built serverless APIs. Projects: Event-driven pipeline. Education: B.Tech CSE. Certifications: AWS Developer.",good
+"Summary: Resume lacks clarity and formatting. Skills: none. Experience: none. Education: vague. Certifications: none.",bad
+"Summary: Event coordinator. Skills: planning, vendor management, scheduling. Experience: Corporate events. Projects: Annual festival. Education: BBA. Certifications: Event Planning Cert.",good
+"Summary: Speechwriter. Skills: writing, research, editing. Experience: Scriptwriting for executives. Projects: TED-style speech. Education: MA English. Certifications: Writing Cert.",good
+"Summary: Resume includes only unprofessional slang and jokes. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Android automation tester. Skills: Appium, Selenium, Java, TestNG. Experience: Automated mobile test suites. Projects: Regression automation. Education: B.Tech CSE. Certifications: Mobile Testing Cert.",good
+"Summary: System administrator. Skills: Linux, Active Directory, virtualization. Experience: Managed IT infrastructure. Projects: Server hardening. Education: BCA. Certifications: RHCE.",good
+"Summary: Poor description and incomplete work history. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Blockchain architect. Skills: Solidity, smart contract optimization, Web3. Experience: Designed DeFi platforms. Projects: Tokenization system. Education: B.Tech CSE. Certifications: Blockchain Expert.",good
+"Summary: Machine learning researcher. Skills: PyTorch, CV, NLP, transformers. Experience: Research intern. Projects: LLM fine-tuning. Education: M.Tech AI. Certifications: ML Research Cert.",good
+"Summary: Resume contains random sentences and no job info. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: HR operations specialist. Skills: payroll mgmt, benefits, onboarding. Experience: HR coordinator. Projects: HRMS automation. Education: MBA HR. Certifications: HR Ops Cert.",good
+"Summary: English professor. Skills: literature analysis, communication, research. Experience: University lecturer. Projects: Literary analysis paper. Education: MA + PhD English. Certifications: Teaching License.",good
+"Summary: Very empty resume with unclear content. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Sales engineer. Skills: CRM, solution selling, product demos. Experience: Technical sales. Projects: Sales pipeline improvement. Education: B.Tech Mechanical. Certifications: Sales Engineer Cert.",good
+"Summary: AI ethics researcher. Skills: fairness, bias detection, governance. Experience: Research intern. Projects: Bias mitigation model. Education: M.Tech AI Ethics. Certifications: Ethics Cert.",good
+"Summary: Poor resume with no areas of expertise mentioned. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Scrum master. Skills: Agile, Jira, sprint planning. Experience: Led agile teams. Projects: Agile transformation. Education: B.Tech. Certifications: CSM.",good
+"Summary: Landscape architect. Skills: site planning, 3D design, horticulture. Experience: Park designs. Projects: Urban garden. Education: B.Arch Landscape. Certifications: Landscape Design Cert.",good
+"Summary: Resume with poor wording and no accomplishments. Skills: none. Experience: none. Education: little. Certifications: none.",bad
+"Summary: AI product manager. Skills: backlog mgmt, analytics, research. Experience: Launched ML features. Projects: Recommender system. Education: B.Tech + MBA. Certifications: PM Certification.",good
+"Summary: Renewable energy engineer. Skills: solar PV, wind turbines, energy modeling. Experience: Renewable projects. Projects: Solar plant analysis. Education: B.Tech Renewable. Certifications: Energy Cert.",good
+"Summary: Resume contains irrelevant non-professional text. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Food technologist. Skills: food safety, quality checks. Experience: Food lab intern. Projects: Nutritional analysis. Education: B.Sc Food Tech. Certifications: Food Safety Cert.",good
+"Summary: Aerospace engineer. Skills: aerodynamics, CFD, structures. Experience: Flight simulation intern. Projects: Wing optimization. Education: B.Tech Aerospace. Certifications: Aeronautical Cert.",good
+"Summary: Missing formatting and important sections. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Supply chain analyst. Skills: SQL, ERP, forecasting, Excel. Experience: Demand planning. Projects: Inventory forecasting. Education: MBA SCM. Certifications: SCM Cert.",good
+"Summary: Mobile game developer. Skills: Unity, C#, 2D/3D game design. Experience: Published games. Projects: Mobile RPG game. Education: B.Tech CSE. Certifications: Game Dev Cert.",good
+"Summary: Weak resume with no structure or detail. Skills: none. Experience: none. Education: basic. Certifications: none.",bad
+"Summary: GIS analyst. Skills: ArcGIS, QGIS, mapping, spatial analysis. Experience: GIS surveys. Projects: Land mapping. Education: B.Sc Geography. Certifications: GIS Cert.",good
+"Summary: Clinical researcher. Skills: trials, data collection, analysis. Experience: Clinical research associate. Projects: Trial monitoring. Education: M.Sc Clinical Research. Certifications: Clinical Cert.",good
+"Summary: Resume contains incomplete sentences and bad formatting. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Automotive designer. Skills: CAD, clay modeling, sketches. Experience: Vehicle concept design. Projects: Car prototype. Education: B.Des Automotive. Certifications: Automotive Design Cert.",good
+"Summary: Lab chemist. Skills: titration, spectroscopy, lab instruments. Experience: Chemical testing. Projects: Sample analysis. Education: B.Sc Chemistry. Certifications: Chemistry Lab Cert.",good
+"Summary: Very low-content resume with unstructured writing. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Fitness trainer. Skills: workout planning, nutrition basics. Experience: Gym trainer. Projects: Weight loss program. Education: Diploma Fitness. Certifications: Trainer Cert.",good
+"Summary: Insurance advisor. Skills: policy explanation, customer service, sales. Experience: Insurance sales. Projects: Policy improvement. Education: B.Com. Certifications: IRDA." ,good
+"Summary: Extremely vague resume lacking details. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Marine technician. Skills: engine testing, maintenance, navigation systems. Experience: Ship maintenance. Projects: Safety inspection. Education: Diploma Marine. Certifications: Marine Tech Cert.",good
+"Summary: IT project manager with strong leadership skills. Skills: Agile, Scrum, project planning, Jira, stakeholder management. Experience: Delivered enterprise IT projects. Projects: ERP implementation. Education: MBA IT. Certifications: PMP.",good
+"Summary: Marine biotechnologist. Skills: sample analysis, PCR, field research. Experience: Marine research intern. Projects: Coastal biodiversity study. Education: M.Sc Marine Biotech. Certifications: Marine Research Cert.",good
+"Summary: Resume almost empty with unclear job goals. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Dermatology assistant. Skills: skin treatment assistance, sterilization, documentation. Experience: Clinic assistant. Projects: Skin awareness camp support. Education: Diploma Dermatology. Certifications: Clinic Assistant Cert.",good
+"Summary: Fashion stylist. Skills: wardrobe planning, makeup basics, branding. Experience: Boutique stylist. Projects: Photoshoot styling. Education: Diploma Fashion Styling. Certifications: Styling Cert.",good
+"Summary: Resume includes irrelevant hobbies without professional info. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Solar engineer. Skills: PV systems, load calculations, AUTOCAD. Experience: Solar project intern. Projects: Rooftop installation design. Education: B.Tech Electrical. Certifications: Solar Cert.",good
+"Summary: CNC operator. Skills: CNC programming, machine operations, QA. Experience: Worked in machining units. Projects: Precision cutting. Education: Diploma Mechanical. Certifications: CNC Cert.",good
+"Summary: Extremely poorly written resume with no structure. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Cyber forensics analyst. Skills: disk imaging, log analysis, malware investigation. Experience: Assisted forensic cases. Projects: Digital evidence report. Education: B.Tech Cybersecurity. Certifications: CHFI.",good
+"Summary: AI chatbot developer. Skills: Python, NLP, Rasa, TensorFlow. Experience: Built conversational pipelines. Projects: Customer support bot. Education: B.Tech AI. Certifications: NLP Cert.",good
+"Summary: Resume missing achievements and job responsibilities. Skills: basic typing. Experience: unclear. Education: none. Certifications: none.",bad
+"Summary: Electrical maintenance engineer. Skills: testing, wiring, safety procedures. Experience: Maintained factory equipment. Projects: Motor overhaul. Education: B.Tech Electrical. Certifications: Maintenance Cert.",good
+"Summary: English tutor. Skills: grammar, communication, writing. Experience: Freelance tutoring. Projects: Spoken English course. Education: MA English. Certifications: Teaching Cert.",good
+"Summary: Resume contains irrelevant opinions instead of professional content. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Security officer. Skills: surveillance, patrolling, reporting. Experience: Mall security. Projects: Safety coordination. Education: 12th pass. Certifications: Security Cert.",good
+"Summary: Lab assistant. Skills: chemical handling, testing, equipment cleaning. Experience: Laboratory intern. Projects: Sample testing. Education: B.Sc Chemistry. Certifications: Lab Cert.",good
+"Summary: Poor formatting and very short content. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Aerospace technician. Skills: aircraft wiring, safety checks, inspections. Experience: Aviation workshop. Projects: Aircraft maintenance logs. Education: Diploma Aerospace. Certifications: Technician Cert.",good
+"Summary: Microbiologist. Skills: culturing, staining, microscopes. Experience: Lab intern. Projects: Microbial analysis. Education: M.Sc Microbiology. Certifications: Microbio Cert.",good
+"Summary: Resume lacks clarity and does not mention any real experience. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Business intelligence analyst. Skills: Power BI, SQL, data modeling. Experience: BI dashboards. Projects: Sales insights model. Education: MBA Analytics. Certifications: Power BI Cert.",good
+"Summary: Paralegal. Skills: legal drafting, documentation, case filing. Experience: Assisted senior lawyers. Projects: Case research. Education: LLB. Certifications: Paralegal Cert.",good
+"Summary: Resume with 1-line description not suitable for ATS. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Cloud support engineer. Skills: AWS EC2, S3, networking, troubleshooting. Experience: Cloud ticketing. Projects: Automated backup script. Education: BCA. Certifications: AWS Cloud Practitioner.",good
+"Summary: Structural engineer. Skills: STAAD Pro, RCC design, drafting. Experience: Building design. Projects: Commercial structure. Education: B.Tech Civil. Certifications: Structural Design Cert.",good
+"Summary: Resume appears copy-pasted and meaningless. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Electrician. Skills: wiring, installation, maintenance. Experience: Residential projects. Projects: House wiring. Education: ITI. Certifications: Electrical License.",good
+"Summary: Multimedia designer. Skills: animation, video editing, 3D design. Experience: Creative agency. Projects: Brand film. Education: B.Des Multimedia. Certifications: Multimedia Cert.",good
+"Summary: Resume unclear and without enough sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Procurement specialist. Skills: vendor mgmt, sourcing, negotiation. Experience: Managed procurement cycles. Projects: Cost reduction strategy. Education: BBA Supply Chain. Certifications: Procurement Cert.",good
+"Summary: Automobile technician. Skills: engine servicing, diagnostics, repair. Experience: Car workshop. Projects: Engine rebuild. Education: Diploma Auto. Certifications: Mechanic License.",good
+"Summary: Extremely short resume lacking details. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Social media strategist. Skills: content calendars, analytics, ads. Experience: Grew engagement 200%. Projects: Brand campaigns. Education: BA Marketing. Certifications: Social Media Cert.",good
+"Summary: Backend PHP developer. Skills: Laravel, MySQL, REST APIs. Experience: Built CMS systems. Projects: CRM development. Education: BCA. Certifications: PHP Developer Cert.",good
+"Summary: Resume contains random personal statements without relevance. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Cybersecurity consultant. Skills: penetration testing, VAPT, SIEM. Experience: Secured enterprise networks. Projects: Pentest audit. Education: B.Tech IT. Certifications: OSCP.",good
+"Summary: Cloud automation engineer. Skills: Terraform, AWS, GitHub Actions. Experience: Automated infra deployments. Projects: IaC modules. Education: B.Tech CSE. Certifications: DevOps Cert.",good
+"Summary: Very weak resume with no details beyond one line. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Video game designer. Skills: Unity, gameplay mechanics, UI/UX. Experience: Designed indie games. Projects: Puzzle game. Education: B.Des Game Design. Certifications: Game Designer Cert.",good
+"Summary: Auditor. Skills: financial audits, documentation, compliance. Experience: Internal audits. Projects: Audit report automation. Education: B.Com. Certifications: Audit Cert.",good
+"Summary: Resume provides generic content with no depth. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Marine diver. Skills: underwater welding, equipment handling, diving safety. Experience: Shipyard diver. Projects: Hull inspection. Education: Commercial Diving School. Certifications: Diver License.",good
+"Summary: Robotics test engineer. Skills: test automation, sensors, actuators. Experience: Robot testing. Projects: AGV testing. Education: B.Tech Robotics. Certifications: Test Engineer Cert.",good
+"Summary: Resume filled with unnecessary emojis and informal tone. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Solar panel technician. Skills: installation, wiring, testing. Experience: Field installations. Projects: 50kW rooftop system. Education: ITI Electrician. Certifications: Solar Tech Cert.",good
+"Summary: Data visualization expert. Skills: Tableau, Power BI, SQL. Experience: Built BI dashboards. Projects: Sales visual stories. Education: BBA Analytics. Certifications: Tableau Cert.",good
+"Summary: Unprofessional resume lacking job focus. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Biomedical researcher. Skills: PCR, sample testing, data analysis. Experience: Clinical lab research. Projects: Blood sample analysis. Education: M.Sc Biomedical. Certifications: Research Cert.",good
+"Summary: Petroleum engineer. Skills: drilling, reservoir analysis. Experience: Oilfield internship. Projects: Reservoir model. Education: B.Tech Petroleum. Certifications: Petroleum Cert.",good
+"Summary: Interior architect. Skills: 3D visualization, interior layouts, rendering. Experience: Commercial interior projects. Projects: Office interior remodel. Education: B.Arch Interior. Certifications: Interior Architecture Cert.",good
+"Summary: Fine arts teacher. Skills: painting, sketching, lesson planning. Experience: School art teacher. Projects: Student art exhibition. Education: BFA. Certifications: Teaching Cert.",good
+"Summary: Resume too short and missing all essential details. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Mobile automation engineer. Skills: Appium, Java, test frameworks. Experience: Mobile test automation. Projects: Regression suites. Education: B.Tech CSE. Certifications: Automation Cert.",good
+"Summary: Network security engineer. Skills: firewalls, VPNs, intrusion detection. Experience: Secured enterprise networks. Projects: Security hardening. Education: B.Tech IT. Certifications: CCNP Security.",good
+"Summary: Very unclear resume with incomplete statements. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Procurement manager. Skills: vendor relations, negotiation, sourcing. Experience: 5 years in procurement. Projects: Supply optimization. Education: MBA. Certifications: Procurement Professional.",good
+"Summary: Clinical psychologist. Skills: therapy planning, diagnosis, patient support. Experience: Hospital psychologist. Projects: Mental wellness program. Education: M.Phil Psychology. Certifications: Clinical Psych License.",good
+"Summary: Resume has only hobbies listed, no professional info. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Operations analyst. Skills: Excel, SQL, process automation. Experience: Operational insights. Projects: Efficiency improvement. Education: BBA Operations. Certifications: Ops Analyst Cert.",good
+"Summary: Automotive QA engineer. Skills: testing, diagnostics, quality checks. Experience: Testing vehicle systems. Projects: Brake testing analysis. Education: B.Tech Automobile. Certifications: QA Cert.",good
+"Summary: Resume written in casual language lacking sections. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Cloud-native architect. Skills: AWS, microservices, container orchestration. Experience: Designed enterprise cloud infrastructure. Projects: Multi-region architecture. Education: B.Tech CSE. Certifications: AWS Architect Pro.",good
+"Summary: English content strategist. Skills: editing, SEO writing, brand messaging. Experience: Managed content teams. Projects: Content calendars. Education: BA English. Certifications: Content Strategy.",good
+"Summary: Resume lacks clarity and formatting, extremely vague. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Database administrator. Skills: MySQL, PostgreSQL, replication, tuning. Experience: Managed DB clusters. Projects: Query optimization. Education: B.Tech IT. Certifications: DBA Cert.",good
+"Summary: Mechanical analyst. Skills: FEA, SolidWorks, material analysis. Experience: Component testing. Projects: Stress analysis. Education: B.Tech Mechanical. Certifications: FEA Cert.",good
+"Summary: Low-quality resume with random unrelated content. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Electrical design engineer. Skills: AutoCAD Electrical, panel design. Experience: Industry projects. Projects: Panel layout design. Education: B.Tech Electrical. Certifications: Design Cert.",good
+"Summary: Geospatial scientist. Skills: GIS, remote sensing, data modeling. Experience: Satellite imagery analysis. Projects: Land classification model. Education: M.Sc GIS. Certifications: Remote Sensing Cert.",good
+"Summary: Resume includes incomplete and poorly written sentences. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Occupational therapist. Skills: rehab therapy, assessment, treatment planning. Experience: Rehab center. Projects: Recovery program. Education: BOT. Certifications: OT License.",good
+"Summary: Metallurgical engineer. Skills: material testing, heat treatment. Experience: Steel plant intern. Projects: Alloy strength study. Education: B.Tech Metallurgy. Certifications: Metallurgy Cert.",good
+"Summary: Resume lacking major fields and poorly formatted. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: IT helpdesk engineer. Skills: troubleshooting, ticketing, remote support. Experience: IT support. Projects: System automation script. Education: BCA. Certifications: ITIL Foundation.",good
+"Summary: Data quality analyst. Skills: SQL, ETL testing, reporting. Experience: QA for data pipelines. Projects: Data validation suite. Education: B.Tech IT. Certifications: Data Quality Cert.",good
+"Summary: Unstructured resume with unrelated phrases. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Video editor and motion designer. Skills: After Effects, Premiere Pro. Experience: Edited commercial videos. Projects: Promo video. Education: BFA. Certifications: Motion Design Cert.",good
+"Summary: Food safety inspector. Skills: HACCP, audits, safety protocols. Experience: Food inspections. Projects: Safety audit report. Education: B.Sc Food Science. Certifications: HACCP.",good
+"Summary: Very unclear resume missing purpose. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Software test engineer. Skills: manual testing, JIRA, SQL. Experience: Test planning. Projects: Regression suite. Education: B.Tech CSE. Certifications: ISTQB.",good
+"Summary: Renewable systems designer. Skills: PV design, wind analysis. Experience: Energy consultancy. Projects: Solar plant design. Education: B.Tech Renewable. Certifications: Energy Designer.",good
+"Summary: Resume almost empty and unprofessional. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Data governance analyst. Skills: data catalogs, quality control. Experience: Data governance initiatives. Projects: Policy documentation. Education: MBA Analytics. Certifications: Governance Cert.",good
+"Summary: HR coordinator. Skills: employee relations, onboarding, HRMS. Experience: HR operations. Projects: HR process automation. Education: MBA HR. Certifications: HR Coordinator Cert.",good
+"Summary: Resume contains very small text with no substance. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: AI quality engineer. Skills: ML testing, model validation, pipelines. Experience: Tested ML models. Projects: Model QA framework. Education: B.Tech AI. Certifications: AI QA Cert.",good
+"Summary: Graphic illustrator. Skills: vector art, typography, branding. Experience: Designed posters. Projects: Branding kit. Education: BFA. Certifications: Illustrator Cert.",good
+"Summary: Low-effort resume missing clear skills. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Hospitality supervisor. Skills: guest relations, quality audits. Experience: Hotel operations. Projects: Service excellence initiative. Education: BHM. Certifications: Hospitality Cert.",good
+"Summary: Pulmonologist assistant. Skills: respiratory tests, patient care. Experience: Hospital intern. Projects: Pulmonary health program. Education: Diploma Medical. Certifications: Medical Assistant Cert.",good
+"Summary: Resume missing key achievements and responsibilities. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Robotics programmer. Skills: ROS, Python, C++. Experience: Robot control. Projects: Autonomous navigation. Education: B.Tech Robotics. Certifications: Robotics Programmer.",good
+"Summary: Quality inspector. Skills: QA testing, defect logging. Experience: Manufacturing QA. Projects: Quality checks. Education: Diploma QA. Certifications: QA Cert.",good
+"Summary: Resume poorly structured with unrelated phrases. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Compliance officer. Skills: audit, policy adherence, reporting. Experience: Regulatory checks. Projects: Compliance audit. Education: B.Com. Certifications: Compliance Cert.",good
+"Summary: Agricultural scientist. Skills: soil analysis, crop research. Experience: Agriculture lab. Projects: Crop yield model. Education: M.Sc Agriculture. Certifications: Agri Research Cert.",good
+"Summary: Unfocused resume with irrelevant content. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Semiconductor engineer. Skills: VLSI, chip design, Verilog, Cadence. Experience: ASIC design intern. Projects: Clock gating model. Education: B.Tech ECE. Certifications: VLSI Cert.",good
+"Summary: Marine operations coordinator. Skills: shipment tracking, port logistics. Experience: Managed vessel operations. Projects: Port automation plan. Education: BBA Logistics. Certifications: Marine Ops Cert.",good
+"Summary: Resume vague with incomplete lines. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: DevOps automation architect. Skills: CI/CD, Kubernetes, Terraform, GitOps. Experience: Automated deployments. Projects: Infra-as-code pipelines. Education: B.Tech CSE. Certifications: DevOps Architect.",good
+"Summary: Speech and drama teacher. Skills: performance coaching, communication. Experience: School drama club. Projects: Annual play direction. Education: BA Performing Arts. Certifications: Drama Teaching Cert.",good
+"Summary: Low-effort resume with unclear objectives. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Automation engineer. Skills: PLCs, robotics, sensors. Experience: Industrial automation engineer. Projects: Conveyor automation. Education: B.Tech Electrical. Certifications: Automation Specialist.",good
+"Summary: Workplace safety officer. Skills: safety audits, risk assessment, PPE management. Experience: Manufacturing plant. Projects: Safety training program. Education: Diploma Safety Mgmt. Certifications: NEBOSH.",good
+"Summary: Resume includes broken text fragments and lacks structure. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Backend engineer. Skills: Node.js, Express, MongoDB, Redis. Experience: Scalable API development. Projects: Order management system. Education: B.Tech CSE. Certifications: Backend Developer Cert.",good
+"Summary: Clinical surgeon assistant. Skills: assisting procedures, sterilization. Experience: OT assistant. Projects: Surgical workflow improvement. Education: Diploma Surgical. Certifications: Clinical Assistant Cert.",good
+"Summary: Resume poorly written with unclear sentences. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Data privacy analyst. Skills: GDPR, data masking, compliance. Experience: Privacy audits. Projects: Data protection plan. Education: MBA IT. Certifications: Privacy Cert.",good
+"Summary: Hydrologist. Skills: water modeling, GIS, analysis. Experience: Field research. Projects: River flow analysis. Education: M.Sc Hydrology. Certifications: Hydrology Cert.",good
+"Summary: Unprofessional resume with no relevant experience. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Economist researcher. Skills: econometrics, R, policy analysis. Experience: Research intern. Projects: Policy impact study. Education: MA Economics. Certifications: Research Cert.",good
+"Summary: Renewable consultant. Skills: solar analysis, wind modeling. Experience: Energy survey intern. Projects: Solar farm analysis. Education: B.Tech Energy. Certifications: Renewable Cert.",good
+"Summary: Resume with nearly no actual job-related content. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: PPC specialist. Skills: Google Ads, keyword strategy, optimization. Experience: Managed ad spends. Projects: PPC ROAS improvement. Education: BBA Marketing. Certifications: Google Ads Cert.",good
+"Summary: UI developer. Skills: HTML, CSS, JavaScript, Figma. Experience: Built responsive layouts. Projects: Landing page. Education: BCA. Certifications: UI Developer Cert.",good
+"Summary: Thin resume missing sections and irrelevant. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Mechanical fitter. Skills: machine assembly, repairs. Experience: Workshop technician. Projects: Gearbox assembly. Education: ITI. Certifications: Fitter Cert.",good
+"Summary: Tax consultant. Skills: GST, filing, compliance. Experience: Tax audits. Projects: Tax planning model. Education: B.Com. Certifications: Tax Consultant Cert.",good
+"Summary: Unstructured resume with poor writing style. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Optical engineer. Skills: optics design, laser systems. Experience: Optical R&D intern. Projects: Lens modeling. Education: M.Sc Optoelectronics. Certifications: Optics Cert.",good
+"Summary: Biomedical technician. Skills: device repair, diagnostics. Experience: Hospital maintenance. Projects: Equipment servicing. Education: Diploma Biomedical. Certifications: Technician Cert.",good
+"Summary: Resume missing majority of required sections. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Software architect. Skills: microservices, design patterns, distributed systems. Experience: Architected enterprise apps. Projects: Domain-driven design refactor. Education: B.Tech CSE. Certifications: Architecture Cert.",good
+"Summary: Clinical nutrition researcher. Skills: diet planning, analysis, lab testing. Experience: Research intern. Projects: Nutrition modeling. Education: M.Sc Nutrition. Certifications: Research Cert.",good
+"Summary: Resume extremely unclear and unprofessional. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: IT auditor. Skills: compliance audits, internal controls. Experience: IT audits. Projects: Audit workflow improvement. Education: B.Tech IT. Certifications: CISA.",good
+"Summary: Environmental researcher. Skills: GIS, analysis, sampling. Experience: Research fellow. Projects: Climate impact study. Education: M.Sc Environment. Certifications: Research Cert.",good
+"Summary: Weak resume lacking all relevant details. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Quality engineer. Skills: QA testing, SPC, process control. Experience: Factory QA. Projects: Defect analysis. Education: B.Tech Mechanical. Certifications: QA Engineer Cert.",good
+"Summary: Air traffic management intern. Skills: communication, monitoring, documentation. Experience: Airport operations intern. Projects: Flight data reporting. Education: B.Sc Aviation. Certifications: Aviation Cert.",good
+"Summary: Resume with random words and no structure. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Digital marketing manager. Skills: SEO, SEM, analytics, branding. Experience: Handled campaigns. Projects: Lead generation improvement. Education: MBA Marketing. Certifications: Digital Marketing Cert.",good
+"Summary: Backend cloud engineer. Skills: AWS Lambda, API Gateway, Python. Experience: Built serverless APIs. Projects: Serverless ETL. Education: B.Tech IT. Certifications: AWS Developer.",good
+"Summary: Resume contains very weak descriptions and lacks key elements. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Chemical engineer. Skills: process engineering, heat transfer. Experience: Chemical plant intern. Projects: Distillation study. Education: B.Tech Chemical. Certifications: Chemical Engineer Cert.",good
+"Summary: Financial controller. Skills: budgeting, forecasting, MIS reporting. Experience: Managed financial operations. Projects: Cost control. Education: MBA Finance. Certifications: Finance Controller Cert.",good
+"Summary: Resume informal and not job-oriented. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: AR/VR developer. Skills: Unity, C#, ARKit, VR design. Experience: Immersive solutions development. Projects: VR training app. Education: B.Tech CSE. Certifications: AR/VR Developer Cert.",good
+"Summary: Aerospace assembly technician. Skills: assembly, inspection, quality checks. Experience: Aircraft component assembly. Projects: Wing assembly. Education: Diploma Aerospace. Certifications: Assembly Cert.",good
+"Summary: Resume has improper tone and missing sections. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Business operations manager. Skills: process optimization, planning. Experience: Managed operations. Projects: Efficiency improvements. Education: MBA Operations. Certifications: Ops Manager Cert.",good
+"Summary: Food processing engineer. Skills: QA, food machinery, thermal processing. Experience: Food plant. Projects: Product optimization. Education: B.Tech Food Tech. Certifications: FPE Cert.",good
+"Summary: Weakly written resume lacking clarity. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Marine logistics engineer. Skills: fleet planning, cargo analysis. Experience: Port logistics intern. Projects: Vessel scheduling model. Education: B.Tech Marine. Certifications: Maritime Logistics Cert.",good
+"Summary: Clinical biochemist. Skills: lab testing, analyzers, diagnostics. Experience: Hospital biochem lab. Projects: Sample analysis. Education: M.Sc Biochemistry. Certifications: Clinical Biochem Cert.",good
+"Summary: Resume with almost no relevant professional details. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Senior DevOps engineer. Skills: Kubernetes, CI/CD, AWS, Helm, GitHub Actions. Experience: Automated infra delivery. Projects: Multi-cloud deployment. Education: B.Tech CSE. Certifications: DevOps Pro.",good
+"Summary: Mechanical production engineer. Skills: CNC, machining, assembly lines. Experience: Production planning. Projects: Cycle time reduction. Education: B.Tech Mechanical. Certifications: Production Cert.",good
+"Summary: Resume extremely short and unclear. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Academic researcher. Skills: writing, SPSS, qualitative analysis. Experience: University research. Projects: Survey report. Education: MA Sociology. Certifications: Research Cert.",good
+"Summary: Game tester. Skills: gameplay testing, bug reporting, QA. Experience: Mobile game QA. Projects: Test scripts. Education: BCA. Certifications: Game Testing Cert.",good
+"Summary: Resume includes informal and irrelevant phrases. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Marine safety officer. Skills: safety protocols, inspections, documentation. Experience: Ship operations. Projects: Safety audit. Education: Diploma Marine Safety. Certifications: Safety Cert.",good
+"Summary: Energy auditor. Skills: energy assessments, data analysis. Experience: Industry audits. Projects: Energy saving report. Education: B.Tech Electrical. Certifications: Energy Audit Cert.",good
+"Summary: Poorly formatted resume lacking detail. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Pharmacologist. Skills: drug analysis, lab testing. Experience: Pharma lab intern. Projects: Drug efficacy study. Education: M.Pharm. Certifications: Pharma Cert.",good
+"Summary: Corporate trainer. Skills: communication, training modules. Experience: Conducted employee workshops. Projects: Training program. Education: MBA HR. Certifications: Training Specialist.",good
+"Summary: Resume full of grammatical errors and no job focus. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Java backend engineer. Skills: Spring Boot, Hibernate, MySQL. Experience: Enterprise backend development. Projects: Payment system. Education: B.Tech CSE. Certifications: Java Developer.",good
+"Summary: Automation testing analyst. Skills: Selenium, JMeter, Java. Experience: Automated test cases. Projects: Load testing. Education: B.Tech IT. Certifications: QA Testing Cert.",good
+"Summary: Resume contains too little content and missing sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: HVAC engineer. Skills: heat load, ducts, AutoCAD. Experience: HVAC consultancy. Projects: Cooling system design. Education: B.Tech Mechanical. Certifications: HVAC Cert.",good
+"Summary: Broadcast journalist. Skills: reporting, editing, anchoring. Experience: News channel intern. Projects: News packages. Education: BA Journalism. Certifications: Media Cert.",good
+"Summary: Resume with highly unprofessional wording. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Robotics research assistant. Skills: ROS, sensors, actuators. Experience: Robotics lab. Projects: SLAM system. Education: B.Tech Robotics. Certifications: Robotics Research.",good
+"Summary: Air pollution analyst. Skills: monitoring, sampling, GIS. Experience: Pollution board intern. Projects: AQI analysis. Education: M.Sc Environment. Certifications: Env Analysis Cert.",good
+"Summary: Content-free resume lacking skills and experience. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Electrical systems engineer. Skills: circuit design, testing, simulations. Experience: Electrical R&D. Projects: PCB design. Education: B.Tech Electrical. Certifications: Electrical Engineer Cert.",good
+"Summary: Clinical radiology assistant. Skills: X-ray handling, imaging support. Experience: Hospital imaging dept. Projects: Report assistance. Education: Diploma Radiology. Certifications: Radiology Cert.",good
+"Summary: Very weak resume lacking sections and meaning. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Finance operations analyst. Skills: Excel, reconciliation, MIS. Experience: Finance ops. Projects: Monthly close automation. Education: B.Com. Certifications: Finance Ops Cert.",good
+"Summary: Marine biologist assistant. Skills: sample study, reporting. Experience: Marine research. Projects: Water sample study. Education: B.Sc Biology. Certifications: Bio Research Cert.",good
+"Summary: Resume includes incomplete and unrelated text. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Java full-stack developer. Skills: Spring Boot, React, Docker. Experience: Full-stack development. Projects: Admin dashboard. Education: B.Tech CSE. Certifications: Full Stack Cert.",good
+"Summary: Retail associate. Skills: customer service, billing, stocking. Experience: Retail store. Projects: Inventory update. Education: 12th. Certifications: Retail Cert.",good
+"Summary: Resume too short and vague to be useful. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: AI operations engineer. Skills: MLOps, pipelines, monitoring. Experience: ML model deployment. Projects: CI/CD for ML. Education: B.Tech AI. Certifications: MLOps Cert.",good
+"Summary: Geotechnical engineer. Skills: soil testing, analysis, drafting. Experience: Construction sites. Projects: Soil stabilization study. Education: B.Tech Civil. Certifications: Geotech Cert.",good
+"Summary: Resume contains broken phrases and missing sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Biomedical lab analyst. Skills: sample testing, diagnostics, biology tools. Experience: Lab intern. Projects: Blood analysis. Education: B.Sc Biomedical. Certifications: Lab Analyst Cert.",good
+"Summary: Training coordinator. Skills: planning, scheduling, communication. Experience: Corporate training programs. Projects: L&D automation. Education: MBA HR. Certifications: Training Cert.",good
+"Summary: Resume incomplete, poorly formed. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Digital product designer. Skills: Figma, UX research, prototyping. Experience: Designed app flows. Projects: Fintech UI. Education: B.Des. Certifications: UX Design Cert.",good
+"Summary: IT compliance analyst. Skills: audits, documentation, controls. Experience: Compliance team. Projects: Audit automation. Education: B.Tech IT. Certifications: Compliance Cert.",good
+"Summary: Resume lacking clarity and too much informal language. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Drone pilot. Skills: UAV operations, mapping, inspections. Experience: Industrial drone flights. Projects: Land mapping. Education: Drone Academy. Certifications: Drone Pilot Cert.",good
+"Summary: Security researcher. Skills: penetration testing, code review, exploit analysis. Experience: Security audits. Projects: Vulnerability report. Education: B.Tech Cybersecurity. Certifications: OSCP.",good
+"Summary: Resume almost empty and not ATS compatible. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Power plant engineer. Skills: turbine operations, safety checks, control room operations. Experience: Power plant intern. Projects: Efficiency analysis. Education: B.Tech Electrical. Certifications: Energy Cert.",good
+"Summary: Solar EPC engineer. Skills: PV design, AUTOCAD, costing. Experience: EPC projects. Projects: 100kW rooftop plant. Education: B.Tech Electrical. Certifications: Solar EPC Cert.",good
+"Summary: Resume very short with no achievements. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Data entry specialist. Skills: typing, Excel, documentation. Experience: Office assistant. Projects: Data compilation. Education: 12th pass. Certifications: Data Entry Cert.",good
+"Summary: Supply chain coordinator. Skills: warehouse mgmt, procurement, planning. Experience: SCM intern. Projects: Inventory optimization. Education: BBA SCM. Certifications: SCM Cert.",good
+"Summary: Resume unclear and missing many sections. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Mechanical quality inspector. Skills: QA checks, measurements, tools handling. Experience: Factory QA. Projects: Defect tracking system. Education: Diploma Mechanical. Certifications: QA Inspector Cert.",good
+"Summary: Agronomist. Skills: soil testing, crop planning, fertilizer analysis. Experience: Agricultural research. Projects: Crop improvement study. Education: M.Sc Agriculture. Certifications: Agronomy Cert.",good
+"Summary: Resume poorly crafted with minimal information. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Marine surveyor. Skills: inspection, documentation, marine safety. Experience: Port operations. Projects: Vessel inspection. Education: B.Tech Marine. Certifications: Surveyor Cert.",good
+"Summary: Cardiologist assistant. Skills: ECG, patient monitoring. Experience: Hospital cardiology dept. Projects: Heart health camp. Education: Diploma Cardiology. Certifications: Clinical Assistant Cert.",good
+"Summary: Resume with unclear and unrelated content. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Senior system analyst. Skills: requirements gathering, SQL, system design. Experience: Enterprise applications. Projects: Workflow automation. Education: MCA. Certifications: System Analyst Cert.",good
+"Summary: Histotechnician. Skills: staining, tissue analysis. Experience: Medical lab. Projects: Tissue processing. Education: Diploma Histo. Certifications: Histo Cert.",good
+"Summary: Resume contains random text and no job details. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Airport ground staff. Skills: baggage handling, customer service, documentation. Experience: Airport operations. Projects: Boarding efficiency improvement. Education: Diploma Aviation. Certifications: Ground Staff Cert.",good
+"Summary: DevSecOps engineer. Skills: CI/CD security, SAST, DAST, cloud security. Experience: Secured pipelines. Projects: Security automation. Education: B.Tech CSE. Certifications: DevSecOps Cert.",good
+"Summary: Very little and unclear resume content. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Optometrist. Skills: eye testing, diagnosis, lenses. Experience: Eye clinic. Projects: Vision screening camp. Education: B.Optom. Certifications: Optometry License.",good
+"Summary: Pharmaceutical QA associate. Skills: audits, GMP, SOP writing. Experience: Pharma QA. Projects: Batch review automation. Education: B.Pharm. Certifications: GMP Cert.",good
+"Summary: Resume contains incomplete and unprofessional lines. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Cloud data engineer. Skills: AWS Glue, Redshift, Spark, ETL. Experience: Data pipelines. Projects: ETL migration. Education: B.Tech CSE. Certifications: Data Engineer Cert.",good
+"Summary: Front office executive. Skills: communication, billing, scheduling. Experience: Front desk operations. Projects: Check-in optimization. Education: BHM. Certifications: Hospitality Cert.",good
+"Summary: Resume missing essential ATS sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Environmental safety officer. Skills: audits, compliance, waste management. Experience: Industry safety. Projects: Safety report. Education: B.Tech Environmental. Certifications: Safety Cert.",good
+"Summary: Neuroscience researcher. Skills: EEG analysis, data modeling. Experience: Research assistant. Projects: Brain activity study. Education: M.Sc Neuroscience. Certifications: Research Cert.",good
+"Summary: Resume too short and poorly organized. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Cloud solutions architect. Skills: AWS, microservices, cost optimization. Experience: Designed cloud architectures. Projects: Serverless platform. Education: B.Tech IT. Certifications: AWS Architect.",good
+"Summary: Textile designer. Skills: pattern design, printing, CAD. Experience: Textile industry. Projects: Fabric design set. Education: B.Des Textile. Certifications: Textile Design Cert.",good
+"Summary: Resume with insufficient information and missing skills. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Neurosurgery assistant. Skills: OT support, patient prep. Experience: Hospital OT. Projects: Surgery workflow study. Education: Diploma Medical. Certifications: Clinical Assistant Cert.",good
+"Summary: AI researcher. Skills: deep learning, transformers, NLP. Experience: Research papers. Projects: LLM fine-tuning. Education: M.Tech AI. Certifications: AI Research Cert.",good
+"Summary: Resume lacking clear job objectives and sections. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Embedded systems engineer. Skills: C, ARM, RTOS, PCB debugging. Experience: Firmware dev. Projects: IoT controller. Education: B.Tech ECE. Certifications: Embedded Cert.",good
+"Summary: Clinical pathologist. Skills: lab testing, diagnosis, lab automation. Experience: Hospital pathology. Projects: Blood diagnostics. Education: MD Pathology. Certifications: Medical License.",good
+"Summary: Resume poorly written without any detail. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Sustainability analyst. Skills: ESG reporting, carbon footprint analysis. Experience: Sustainability audits. Projects: Green certification. Education: MBA Sustainability. Certifications: ESG Cert.",good
+"Summary: Machine maintenance engineer. Skills: troubleshooting, servicing, repair. Experience: Manufacturing plant. Projects: Line maintenance. Education: Diploma Mechanical. Certifications: Maintenance Cert.",good
+"Summary: Resume vague and incomplete, lacks structure. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Frontend Angular developer. Skills: Angular, TypeScript, RxJS. Experience: Web applications. Projects: Admin dashboard. Education: B.Tech CSE. Certifications: Angular Developer.",good
+"Summary: Medical transcriptionist. Skills: transcription, documentation, typing. Experience: Medical data entry. Projects: Transcription accuracy improvement. Education: B.Sc Healthcare. Certifications: Transcription Cert.",good
+"Summary: Resume lacking detail and ATS-relevant keywords. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Environmental policy analyst. Skills: research, documentation, modeling. Experience: Policy institute intern. Projects: Environmental impact analysis. Education: MA Public Policy. Certifications: Policy Cert.",good
+"Summary: Robotics hardware engineer. Skills: circuits, sensors, soldering. Experience: Robotics lab. Projects: Robot arm design. Education: B.Tech Robotics. Certifications: Robotics Hardware Cert.",good
+"Summary: Resume extremely short and non-informative. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Accounting manager. Skills: financial reporting, GST, budgeting. Experience: 7 years accounting. Projects: Audit improvements. Education: B.Com + CA Inter. Certifications: Accounting Cert.",good
+"Summary: Sports physiologist. Skills: assessment, rehab planning. Experience: Sports center. Projects: Athlete performance study. Education: M.Sc Sports Science. Certifications: Sports Physiology.",good
+"Summary: Resume disorganized with no proper format. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: UI motion designer. Skills: Figma, After Effects, prototype motion. Experience: UI animations. Projects: Micro-interactions. Education: B.Des Multimedia. Certifications: Motion Design Cert.",good
+"Summary: Bioinformatics analyst. Skills: Python, R, gene sequencing analysis. Experience: Research lab. Projects: Sequence alignment. Education: M.Sc Bioinformatics. Certifications: Bioinfo Cert.",good
+"Summary: Resume contains minimal content and very poor structure. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Backend .NET developer. Skills: C#, ASP.NET, SQL Server. Experience: API development. Projects: CRM backend. Education: B.Tech IT. Certifications: .NET Developer Cert.",good
+"Summary: Environmental chemist. Skills: chemical testing, lab equipment, water analysis. Experience: Env lab. Projects: Water quality report. Education: M.Sc Chemistry. Certifications: Env Chem Cert.",good
+"Summary: Resume unclear and not ATS friendly. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Power systems engineer. Skills: grid analysis, load flow, protection systems. Experience: Power distribution projects. Projects: Load flow modeling. Education: B.Tech Electrical. Certifications: Power Systems Cert.",good
+"Summary: Marine automation technician. Skills: PLC, sensors, marine systems. Experience: Ship automation. Projects: Engine room automation. Education: Diploma Marine. Certifications: Marine Automation Cert.",good
+"Summary: Resume missing essential information and mostly blank. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Data warehouse architect. Skills: ETL, Snowflake, data modeling, pipelines. Experience: Designed data warehouses. Projects: ETL restructuring. Education: B.Tech CSE. Certifications: Data Warehouse Cert.",good
+"Summary: Audiologist. Skills: hearing tests, diagnosis, treatment. Experience: Audiology clinic. Projects: Hearing screening camp. Education: BASLP. Certifications: Audiology License.",good
+"Summary: Unstructured resume with unrelated, random text. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Sales operations analyst. Skills: CRM, Excel, forecasting. Experience: Sales data analysis. Projects: Lead funnel improvements. Education: BBA. Certifications: Sales Ops Cert.",good
+"Summary: Aerospace quality engineer. Skills: inspections, testing, documentation. Experience: Aircraft QA. Projects: Structural QA. Education: B.Tech Aerospace. Certifications: Aerospace QA Cert.",good
+"Summary: Resume poorly written with no ATS sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Social researcher. Skills: qualitative analysis, survey design. Experience: NGO research. Projects: Social impact study. Education: MA Sociology. Certifications: Research Cert.",good
+"Summary: Electrical R&D engineer. Skills: PCB design, prototyping, testing. Experience: Electrical lab. Projects: Motor controller design. Education: B.Tech Electrical. Certifications: R&D Cert.",good
+"Summary: Resume too short and doesn’t include achievements. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Nuclear engineer. Skills: radiation safety, simulations, reactor control. Experience: Nuclear lab. Projects: Reactor cooling model. Education: B.Tech Nuclear. Certifications: Nuclear Cert.",good
+"Summary: Aviation safety inspector. Skills: audits, SOP checking, compliance. Experience: Aviation authority intern. Projects: Safety inspection report. Education: B.Sc Aviation. Certifications: Aviation Safety Cert.",good
+"Summary: Resume unclear and incomplete with bad grammar. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Supply chain engineer. Skills: ERP, forecasting, optimization models. Experience: Inventory control. Projects: Cost reduction. Education: B.Tech SCM. Certifications: Supply Chain Cert.",good
+"Summary: Backend Golang developer. Skills: Go, gRPC, Docker, PostgreSQL. Experience: High-performance APIs. Projects: Real-time processing engine. Education: B.Tech CSE. Certifications: Golang Cert.",good
+"Summary: Resume content irrelevant for job use. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Computational biologist. Skills: R, Python, data modeling, genomics. Experience: Research assistant. Projects: DNA modeling. Education: M.Sc Computational Biology. Certifications: Bio Modeling Cert.",good
+"Summary: Solar operations manager. Skills: PV installations, maintenance, costing. Experience: Solar projects. Projects: Rooftop plant. Education: B.Tech Electrical. Certifications: Solar Ops Cert.",good
+"Summary: Resume mostly empty and not ATS compatible. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Quantum computing researcher. Skills: Qiskit, Python, quantum gates, simulations. Experience: Research lab. Projects: Quantum algorithm model. Education: M.Tech Quantum. Certifications: QC Research Cert.",good
+"Summary: Electrical service technician. Skills: wiring, testing, repair. Experience: Service center. Projects: Appliance repair. Education: ITI. Certifications: Electrical Tech Cert.",good
+"Summary: Resume inconsistent and lacks key job information. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Frontend Vue developer. Skills: Vue.js, JS, TailwindCSS. Experience: UI components. Projects: Dashboard UI. Education: BCA. Certifications: Vue Developer Cert.",good
+"Summary: Biomedical engineer intern. Skills: device testing, circuit basics. Experience: Hospital equipment support. Projects: ECG device analysis. Education: B.Tech Biomedical. Certifications: Biomedical Cert.",good
+"Summary: Resume with poor structure and lack of sections. Skills: none. Experience: none. Education: minimal. Certifications: none.",bad
+"Summary: Data science analyst. Skills: Python, Pandas, ML, PowerBI. Experience: Data cleaning and insights. Projects: Prediction model. Education: B.Tech CSE. Certifications: Data Science Cert.",good
+"Summary: HVAC technician. Skills: ducting, piping, servicing. Experience: HVAC service. Projects: Cooling system maintenance. Education: Diploma Mechanical. Certifications: HVAC Technician.",good
+"Summary: Resume shallow and vague without detail. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Environmental toxicologist. Skills: chemical analysis, lab research. Experience: Environmental lab. Projects: Toxicity study. Education: M.Sc Toxicology. Certifications: Env Toxicology.",good
+"Summary: Embedded firmware engineer. Skills: C, RTOS, microcontrollers. Experience: Firmware dev. Projects: IoT module. Education: B.Tech ECE. Certifications: Firmware Cert.",good
+"Summary: Resume poorly expressed and unfocused. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Product designer. Skills: Figma, UX writing, prototyping. Experience: Designed user flows. Projects: App redesign. Education: B.Des. Certifications: Product Design Cert.",good
+"Summary: Clinical data manager. Skills: EDC tools, data validation, documentation. Experience: Clinical trials. Projects: Study database. Education: B.Sc Life Sciences. Certifications: CDM Cert.",good
+"Summary: Resume missing essential ATS-friendly structure. Skills: none. Experience: none. Education: unclear. Certifications: none.",bad
+"Summary: Power electronics engineer. Skills: inverter design, motor control, PCB layout. Experience: R&D intern. Projects: Motor driver. Education: B.Tech Electrical. Certifications: Power Electronics Cert.",good
+"Summary: Robotics simulation engineer. Skills: Gazebo, ROS, Python. Experience: Robotics simulation. Projects: Autonomous car model. Education: M.Tech Robotics. Certifications: Simulation Cert.",good
+"Summary: Resume extremely short and non-professional. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Production planner. Skills: scheduling, ERP, capacity planning. Experience: Manufacturing. Projects: Production optimization. Education: B.Tech Industrial. Certifications: Planning Cert.",good
+"Summary: Petroleum field operator. Skills: rig operations, safety, monitoring. Experience: Oilfield. Projects: Pressure test. Education: Diploma Petroleum. Certifications: Field Operator Cert.",good
+"Summary: Generic resume missing detail, no ATS structure. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Information security analyst. Skills: SOC, SIEM, incident response. Experience: Security monitoring. Projects: Threat detection rules. Education: B.Tech Cybersecurity. Certifications: Security Analyst.",good
+"Summary: Webflow developer. Skills: Webflow, HTML, CSS, animations. Experience: Business websites. Projects: Webflow portfolio. Education: BCA. Certifications: Webflow Cert.",good
+"Summary: Resume lacking English proficiency and structure. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Genetic engineer. Skills: CRISPR, sequencing, lab analysis. Experience: Genetic lab intern. Projects: Gene edit experiment. Education: M.Sc Genetics. Certifications: Genetics Cert.",good
+"Summary: Food QC analyst. Skills: quality checks, lab tests, documentation. Experience: Food QC lab. Projects: Sample quality analysis. Education: B.Sc Food Tech. Certifications: QC Analyst Cert.",good
+"Summary: Resume content too little to evaluate. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: ML platform engineer. Skills: MLOps, Kubernetes, pipelines, Docker. Experience: Built ML infra. Projects: ML deployment engine. Education: B.Tech AI. Certifications: ML Ops Cert.",good
+"Summary: Automotive service advisor. Skills: customer handling, diagnostics. Experience: Auto service center. Projects: Service workflow. Education: Diploma Automobile. Certifications: Service Advisor Cert.",good
+"Summary: Resume unprofessional with no ATS-friendly structure. Skills: none. Experience: none. Education: none. Certifications: none.",bad
+"Summary: Financial planning analyst. Skills: budgeting, reporting, analytics. Experience: Corporate finance. Projects: Cost forecast model. Education: MBA Finance. Certifications: FP&A Cert.",good
+"Summary: Satellite engineer. Skills: telemetry, RF systems, testing. Experience: Satellite lab. Projects: Communication link model. Education: B.Tech ECE. Certifications: Satellite Engineer Cert.",good

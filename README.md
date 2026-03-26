@@ -186,6 +186,6 @@ Steps to contribute:
 
 ---
 
-## 📄 License
+## Author
 
-This project is released under the **MIT License**.
+Sami Noor Saifi
